@@ -1,0 +1,84 @@
+.artikel {
+    margin:15px 5px 5px 5px;
+    border: 1px solid darkseagreen;
+}
+
+.content {
+    color: darkseagreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.content-nav {
+    border: 1px solid darkseagreen;
+    color: darkseagreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.content-tekst {   
+    color: darkseagreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.figure {
+    margin: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.header {
+    background-color: darkseagreen;
+    border: 1px solid gray;
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 5px;
+    text-align: center;
+}
+
+.link {
+    color: darkslategray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.link-home {
+    color: darkslategray;
+    float: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.link-tekst {
+    color: darkseagreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.nav {
+    padding: 0px;
+}
+
+.nav-inline {
+    display:inline;
+    margin-right:15px;
+}
+
+.footer {
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin:0 auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    width:750px;
+}
+
+.footer-content {
+    display:inline;
+}
+
+
+
